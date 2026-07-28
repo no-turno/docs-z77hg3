@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-v2cok2.indocuan.online/sitemap.xml
